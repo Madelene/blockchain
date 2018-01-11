@@ -2,3 +2,4 @@
 
 - This tutorial is from a French JavaScript developer called Damien Cosset
 - By going through his code and writing comments, I was able to understand the idea of a Blockchain
+- The ruby example is from Jose Miguel Malaca
